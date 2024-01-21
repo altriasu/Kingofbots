@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.asushiro.backend.demos.web;
+package com.kingofbots.backend.demos.web;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>

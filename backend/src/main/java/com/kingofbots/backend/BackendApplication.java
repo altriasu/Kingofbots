@@ -1,4 +1,4 @@
-package com.asushiro.backend;
+package com.kingofbots.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

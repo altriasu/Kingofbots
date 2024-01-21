@@ -1,4 +1,4 @@
-package com.asushiro.backend;
+package com.kingofbots.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
